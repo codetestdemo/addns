@@ -1,3 +1,7 @@
+#白名单-开始
+!听小说语音接口
+@@||v*-fq-tts.fqnovelvod.com^
+#白名单-结束
 ||dnkeeper.platform.dbankcloud.cn^
 ||store-drcn.hispace.dbankcloud.com^
 ||metrics1-drcn.dt.dbankcloud.cn^
