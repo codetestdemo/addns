@@ -1,0 +1,16 @@
+#高德地图白名单-开始
+!高德离线地图下载
+@@||amap-offlinedata.amap.com^
+!高德图片
+@@||free-aos-cdn-image.amap.com^
+#高德地图白名单-结束
+||fp.amap.com^
+||aps.amap.com^
+||ts.amap.com^
+||aloc-gnss-eph.amap.com^
+||c*-pha.amap.com^
+||asset.amap.com^
+||gaode-acs.m.taobao.com^
+||free-cache.amap.com^
+||page.amap.com^
+||traj-drcn.map.dbankcloud.com^
